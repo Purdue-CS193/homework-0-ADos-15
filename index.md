@@ -1,3 +1,11 @@
+# Abhi's First CS193 Homework
+- Coding experience from fellow students so they know what we're going through
+- The ability to gain knowledge/experience to help us succeed in our upcoming classes
+- Relaxed structure in terms of less stressful exams
+
+**In Bold**
+_In Italics_
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,10 +18,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# This is Abhi's site
-**In Bold**
-_In Italics_
 
 # Header 1
 ## Header 2
